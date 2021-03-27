@@ -1,2 +1,4 @@
 node_modules
 ormconfig.js
+uploads
+!uploads/.gitkeep
